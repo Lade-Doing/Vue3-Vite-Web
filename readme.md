@@ -29,7 +29,7 @@ A modern, fast, and scalable blog web frontend built with Vue 3 and Vite.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blog-web.git
+   git clone git@github.com:Lade-Doing/Vue3-Vite-Web.git
    cd blog-web
    ```
 
@@ -95,5 +95,5 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- GitHub: [Lade_Doing](https://github.com/Lade-Doing)
+- LinkedIn: [Lade_Doing](https://doing.asia)
